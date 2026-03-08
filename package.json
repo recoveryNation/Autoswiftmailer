@@ -1,0 +1,14 @@
+{
+  "name": "autoswift-mailer",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "services/*"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev --workspace web",
+    "dev:api": "npm run dev --workspace api",
+    "worker": "ts-node services/worker/worker.ts"
+  }
+}
