@@ -1,4 +1,4 @@
-# autoswift-platform
+# autoswift-mailer
 
 A production-ready starter monorepo for Autoswift with:
 
@@ -12,7 +12,7 @@ A production-ready starter monorepo for Autoswift with:
 ## Repository structure
 
 ```text
-autoswift-platform
+autoswift-mailer
 │
 ├── apps
 │   ├── web

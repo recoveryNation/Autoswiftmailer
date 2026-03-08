@@ -1,5 +1,5 @@
 {
-  "name": "autoswift-platform",
+  "name": "autoswift-mailer",
   "private": true,
   "workspaces": [
     "apps/*",
